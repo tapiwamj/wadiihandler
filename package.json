@@ -1,0 +1,16 @@
+{
+  "name": "chathandler",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "forever": "^4.0.3",
+    "getusermedia": "^2.0.1",
+    "mysql": "^2.18.1",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.4.1",
+    "ws": "^8.5.0"
+  }
+}
